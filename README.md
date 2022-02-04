@@ -1,8 +1,24 @@
 
-- 🏠 Currais Novos - Rio Grande do Norte - Brasil 
+## :school: IT Technician and Technologist in Internet System by IFRN
 
-- 🏫 Técnico em Informática e Tecnólogo em Sistemas para Internet pelo IFRN.
+---
 
-- <a href="https://dev.to/_aryangomes">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aryan Gomes's DEV Profile" height="30" width="30">
-</a>
+## :book: Currently studying web develop stuffs
+
+---
+
+## Languages
+
+![PHP](https://img.shields.io/badge/-PHP-informational?style=flat&logo=php&logoColor=white)
+
+## Frameworks
+
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel&logoColor=white)
+
+---
+
+[<img align="left"  width="24px" alt="aryangomes_ | Twitter" src="./twitter.svg" />][twitter]
+[<img align="left"  width="24px" alt="aryangomes_ | Linkedin" src="./linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/aryangomes/
+[twitter]: https://www.twitter.com/aryangomes_/
