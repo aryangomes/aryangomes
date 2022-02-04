@@ -3,7 +3,7 @@
 
 <br>
 
-## :book: Currently, studying web develop
+## :book: Currently, studying web development
 
 <br>
 
