@@ -22,6 +22,8 @@
 
 [<img align="left"  width="24px" alt="aryangomes_ | Twitter" src="./twitter.svg" />][twitter]
 [<img align="left"  width="24px" alt="aryangomes_ | Linkedin" src="./linkedin.svg" />][linkedin]
+[<img align="left"  width="24px" alt="aryangomes_ | Linkedin" src="./devdotto.svg" />][devto]
 
 [linkedin]: https://www.linkedin.com/in/aryangomes/
 [twitter]: https://www.twitter.com/aryangomes_/
+[devto]: https://www.dev.to/aryangomes/
