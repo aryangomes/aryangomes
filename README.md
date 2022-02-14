@@ -1,24 +1,15 @@
 
-## :school: IT Technician and Technologist in Internet System by IFRN
-
-<br>
-
-## :book: Currently, studying web development
-
-<br>
-
-## Languages
-
+# Hi, I'm Aryan 👋
+#### :school: IT Technician and Technologist in Internet System by IFRN
+#### :book: Currently, studying web development
+---
+### Languages
 ![PHP](https://img.shields.io/badge/-PHP-informational?style=flat&logo=php&logoColor=white)
 
-<br>
-
-## Frameworks
-
+### Frameworks
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel&logoColor=white)
 
 ---
-<br>
 
 [<img align="left"  width="24px" alt="aryangomes_ | Twitter" src="./twitter.svg" />][twitter]
 [<img align="left"  width="24px" alt="aryangomes_ | Linkedin" src="./linkedin.svg" />][linkedin]
