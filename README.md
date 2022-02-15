@@ -1,6 +1,6 @@
 
 # Hi, I'm Aryan 👋
-#### :school: IT Technician and Technologist in Internet System by IFRN
+#### :school: Technologist in Internet Systems by IFRN
 #### :book: Currently, studying web development
 ---
 ### Languages
