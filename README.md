@@ -1,9 +1,9 @@
 
-# Hi, I'm Aryan 👋
-#### :school: Technologist in Internet Systems by IFRN
-#### :book: Currently, studying web development
+# Olá, eu sou Aryan 👋
+#### :school: Técnologo em Sistemas para Internet pelo IFRN
+#### :book: Atualmente estudando desenvolvimento web
 ---
-### Languages
+### Linguagens
 ![PHP](https://img.shields.io/badge/-PHP-informational?style=flat&logo=php&logoColor=white)
 
 ### Frameworks
