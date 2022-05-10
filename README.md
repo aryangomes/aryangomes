@@ -19,7 +19,9 @@
 [<img align="left"  width="24px" alt="aryangomesdev | Twitter" src="./twitter.svg" />][twitter]
 [<img align="left"  width="24px" alt="aryangomes | Linkedin" src="./linkedin.svg" />][linkedin]
 [<img align="left"  width="24px" alt="aryangomes | Linkedin" src="./devdotto.svg" />][devto]
+[<img align="left" alt="aryangomes | Codewars" src="https://www.codewars.com/users/aryangomes/badges/micro" />][codewars]
 
 [linkedin]: https://www.linkedin.com/in/aryangomes/
 [twitter]: https://www.twitter.com/aryangomesdev/
 [devto]: https://www.dev.to/aryangomes/
+[codewars]: https://www.codewars.com/users/aryangomes
