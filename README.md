@@ -1,7 +1,7 @@
 
 # Olá, eu sou Aryan 👋
-#### :school: Técnologo em Sistemas para Internet pelo IFRN
-#### :book: Atualmente estudando desenvolvimento web
+#### 🎓 Técnologo em Sistemas para Internet pelo IFRN
+#### 👨‍💻 Procurando emprego como Desenvolvedor Back-end | PHP | Laravel
 ---
 ### Linguagens
 ![PHP](https://img.shields.io/badge/-PHP-informational?style=flat&logo=php&logoColor=white)
