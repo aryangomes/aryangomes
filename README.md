@@ -1,7 +1,6 @@
 
 # Olá, eu sou Aryan 👋
 #### 🎓 Técnologo em Sistemas para Internet pelo IFRN
-#### 👨‍💻 Procurando emprego como Desenvolvedor Back-end | PHP | Laravel
 ---
 📌 Gosto de programar
 
